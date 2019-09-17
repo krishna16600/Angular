@@ -1,0 +1,30 @@
+[
+    {
+        "city":"jalandhar",
+        "temperature":"36c",
+        "wind":"2kmph",
+        "humidity":"high" 
+    },
+    
+    {
+        "city":"jaipur",
+        "temperature":"39c",
+        "wind":"0kmph",
+        "humidity":"high" 
+    },
+    
+    {
+        "city":"hyderabad",
+        "temperature":"32c",
+        "wind":"4kmph",
+        "humidity":"low" 
+    },
+    
+    {
+        "city":"rajasthan",
+        "temperature":"42c",
+        "wind":"0kmph",
+        "humidity":"very high" 
+    }
+
+]
